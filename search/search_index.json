@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Herzlich Willkommen auf meiner Seite",
+            "title": "Herzlich Willkommen auf meiner Seite"
+        },
+        {
+            "location": "/#herzlich-willkommen-auf-meiner-seite",
+            "text": "",
+            "title": "Herzlich Willkommen auf meiner Seite"
+        },
+        {
+            "location": "/bausteine/",
+            "text": "Bausteine FDM\n\n\nVoraussetzungen, Installation",
+            "title": "Bausteine FDM"
+        },
+        {
+            "location": "/bausteine/#bausteine-fdm",
+            "text": "",
+            "title": "Bausteine FDM"
+        },
+        {
+            "location": "/bausteine/#voraussetzungen-installation",
+            "text": "",
+            "title": "Voraussetzungen, Installation"
+        }
+    ]
+}
